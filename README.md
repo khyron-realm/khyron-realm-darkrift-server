@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/target-software/Unlimited-Game-MiningGame">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="Images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Darkrift Server</h3>
@@ -50,8 +50,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-<img src="images/img2.jpg" alt="Logo" width="1000" height="400">
 
 Test repository contains the Darkrift 2 Server with the Unlimited Mining Game plugin that is deployed on the Google Cloud ComputeEngine virtual machine.
 
