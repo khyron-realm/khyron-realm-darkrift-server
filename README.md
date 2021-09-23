@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/target-software/Unlimited-Game-MiningGame">
+  <a href="https://github.com/target-software/Unlimited-DarkriftServer-MiningGame">
     <img src="Images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -10,14 +10,14 @@
   <p align="center">
     I - Mining game [Unlimited]
     <br />
-    <a href="https://github.com/target-software/Unlimited-Game-MiningGame"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/target-software/Unlimited-DarkriftServer-MiningGame"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/target-software/Unlimited-Game-MiningGame">View Demo</a>
+    <a href="https://github.com/target-software/Unlimited-DarkriftServer-MiningGame">View Demo</a>
     ·
-    <a href="https://github.com/target-software/Unlimited-Game-MiningGame/issues">Report Bug</a>
+    <a href="https://github.com/target-software/Unlimited-DarkriftServer-MiningGame/issues">Report Bug</a>
     ·
-    <a href="https://github.com/target-software/Unlimited-Game-MiningGame/issues">Request Feature</a>
+    <a href="https://github.com/target-software/Unlimited-DarkriftServer-MiningGame/issues">Request Feature</a>
   </p>
 </p>
 
@@ -90,7 +90,7 @@ More detailes can be found on [Google Drive](https://docs.google.com/document/d/
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/target-software/Unlimited-Game-MiningGame/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/target-software/Unlimited-DarkriftServer-MiningGame/issues) for a list of proposed features (and known issues).
 
 
 <!-- CONTRIBUTING -->
