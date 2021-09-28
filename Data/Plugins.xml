@@ -12,6 +12,6 @@
   <plugin id="9" name="ObjectCacheMonitor" version="1.0.0" />
   <plugin id="10" name="HttpHealthCheck" version="1.0.0" />
   <plugin id="11" name="BadWordFilter" version="1.0.0" />
-  <plugin id="12" name="AgarFoodManager" version="1.0.0" />
-  <plugin id="13" name="AgarPlayerManager" version="1.0.0" />
+  <plugin id="12" name="Login" version="1.0.0" />
+  <plugin id="13" name="UnlimitedPlayerPlugin" version="1.0.0" />
 </plugins>
