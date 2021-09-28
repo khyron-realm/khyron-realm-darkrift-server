@@ -1,1 +1,2 @@
-﻿dotnet Lib/DarkRift.Server.Console.dll
+#!/bin/bash
+dotnet Lib/DarkRift.Server.Console.dll
