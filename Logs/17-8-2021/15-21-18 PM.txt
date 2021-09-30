@@ -1,8 +1,0 @@
-[Trace]   DarkRiftServer        System Details:
-                                	OS: Unix 20.6.0.0
-                                	CLS Version: 4.0.30319.42000
-                                	DarkRift: 2.9.1.0 - Pro
-[Trace]   PluginFactory         Created plugin 'AgarFoodManager'.
-[Trace]   PluginManager         Plugin 'AgarFoodManager' has requested that DarkRift operates in thread safe mode.
-[Trace]   DarkRiftServer        Switched into thread safe mode. All events will be invoked from the main thread. This may affect server performance.
-[Info]    PluginManager         Loaded plugin AgarFoodManager version 1.0.0
