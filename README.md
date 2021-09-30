@@ -42,7 +42,7 @@
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#project-structure">Project Structure</a></li>
     <li><a href="#necessary-plugins">Necessary Plugins</a></li>
-    <li><a href="#license">License</a></li>
+    <li><a href="#references">References</a></li>
   </ol>
 </details>
 
@@ -132,12 +132,7 @@ See the [open issues](https://github.com/target-software/Unlimited-DarkriftServe
 1. [Unlimited networking plugin](https://github.com/target-software/Unlimited-NetworkingServer-MiningGame.git)
 
 
-<!-- LICENSE -->
-## License
+<!-- REFERENCES -->
+## References
 
-Project Template adapted from [Othneil Drew](https://github.com/othneildrew) / [Best-README-Template](https://github.com/othneildrew/Best-README-Template).
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[product-screenshot]: images/screenshot.png
+1. Project Template adapted from [Othneil Drew](https://github.com/othneildrew) / [Best-README-Template](https://github.com/othneildrew/Best-README-Template).
