@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Enter your connection data here: -->
+<MongoDB ConnectionString="mongodb+srv://admin:Ghita12345@unlimited.cffaq.mongodb.net" Database="UnlimitedDB" />
