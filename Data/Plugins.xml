@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<plugins nextID="16">
+<plugins nextID="17">
   <plugin id="0" name="HelpCommand" version="1.0.0" />
   <plugin id="1" name="PluginController" version="1.0.0" />
   <plugin id="2" name="Sniffer" version="1.0.0" />
@@ -16,4 +16,5 @@
   <plugin id="13" name="DatabaseProxy" version="1.0.0" />
   <plugin id="14" name="Login" version="1.0.0" />
   <plugin id="15" name="UnlimitedPlayerPlugin" version="1.0.0" />
+  <plugin id="16" name="UnlimitedLoginPlugin" version="1.0.0" />
 </plugins>
