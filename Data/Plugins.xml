@@ -14,7 +14,7 @@
   <plugin id="11" name="BadWordFilter" version="1.0.0" />
   <plugin id="12" name="MongoDbConnector" version="1.0.0" />
   <plugin id="13" name="DatabaseProxy" version="1.0.0" />
-  <plugin id="14" name="Login" version="1.0.0" />
-  <plugin id="15" name="UnlimitedPlayerPlugin" version="1.0.0" />
-  <plugin id="16" name="UnlimitedLoginPlugin" version="1.0.0" />
+  <plugin id="14" name="GameManager" version="1.0.0" />
+  <plugin id="15" name="LoginPlugin" version="1.0.0" />
+  <plugin id="16" name="PlayerPlugin" version="1.0.0" />
 </plugins>
