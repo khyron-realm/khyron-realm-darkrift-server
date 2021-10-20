@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<plugins nextID="20">
+<plugins nextID="18">
   <plugin id="0" name="HelpCommand" version="1.0.0" />
   <plugin id="1" name="PluginController" version="1.0.0" />
   <plugin id="2" name="Sniffer" version="1.0.0" />
@@ -12,12 +12,10 @@
   <plugin id="9" name="ObjectCacheMonitor" version="1.0.0" />
   <plugin id="10" name="HttpHealthCheck" version="1.0.0" />
   <plugin id="11" name="BadWordFilter" version="1.0.0" />
-  <plugin id="12" name="MongoDbConnector" version="1.0.0" />
-  <plugin id="13" name="DatabaseProxy" version="1.0.0" />
-  <plugin id="14" name="GameManager" version="1.0.0" />
-  <plugin id="15" name="LoginPlugin" version="1.0.0" />
-  <plugin id="16" name="PlayerPlugin" version="1.0.0" />
-  <plugin id="17" name="MongoDbPlugin" version="1.0.0" />
-  <plugin id="18" name="GamePlugin" version="1.0.0" />
-  <plugin id="19" name="AuctionsPlugin" version="1.0.0" />
+  <plugin id="12" name="MongoDbPlugin" version="1.0.0" />
+  <plugin id="13" name="LoginPlugin" version="1.0.0" />
+  <plugin id="14" name="HeadquartersPlugin" version="1.0.0" />
+  <plugin id="15" name="GamePlugin" version="1.0.0" />
+  <plugin id="16" name="DatabaseProxy" version="1.0.0" />
+  <plugin id="17" name="AuctionsPlugin" version="1.0.0" />
 </plugins>
