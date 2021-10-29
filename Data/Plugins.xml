@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<plugins nextID="19">
+<plugins nextID="20">
   <plugin id="0" name="HelpCommand" version="1.0.0" />
   <plugin id="1" name="PluginController" version="1.0.0" />
   <plugin id="2" name="Sniffer" version="1.0.0" />
@@ -19,4 +19,5 @@
   <plugin id="16" name="DatabaseProxy" version="1.0.0" />
   <plugin id="17" name="AuctionsPlugin" version="1.0.0" />
   <plugin id="18" name="ChatPlugin" version="1.0.0" />
+  <plugin id="19" name="MinePlugin" version="1.0.0" />
 </plugins>
