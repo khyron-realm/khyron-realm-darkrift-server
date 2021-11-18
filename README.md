@@ -91,15 +91,19 @@ Test repository contains the Darkrift 2 Server with the Unlimited Mining Game pl
     ```sh
    sudo cp Unlimited.service /lib/systemd/system/
    ```
-4. Run the service
+4. Reload the system process files
     ```sh
-   sudo systemctl start Unlimited
+   sudo systemctl daemon-reload
    ```
 5. Run the service
     ```sh
+   sudo systemctl start Unlimited
+   ```
+6. Run the service
+    ```sh
    sudo systemctl status Unlimited
    ```
-6. Enable the service to run at boot time
+7. Enable the service to run at boot time
     ```sh
    sudo systemctl enable Unlimited
    ```
