@@ -34,9 +34,6 @@
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
@@ -61,7 +58,7 @@ Test repository contains the Darkrift 2 Server with the Unlimited Mining Game pl
 <!-- GETTING STARTED -->
 ## Getting Started
 
-### Installation
+### Installation (user application)
 
 1. Clone the repo
    ```sh
@@ -80,6 +77,32 @@ Test repository contains the Darkrift 2 Server with the Unlimited Mining Game pl
    ./Run.ps1
    ```
 
+### Installation (system process)
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/target-software/Unlimited-DarkriftServer-MiningGame.git
+   ```
+2. Go into folder
+   ```sh
+   cd Unlimited-DarkriftServer-MiningGame
+   ```
+3. Copy service file to system services folder
+    ```sh
+   sudo cp Unlimited.service /lib/systemd/system/
+   ```
+4. Run the service
+    ```sh
+   sudo systemctl start Unlimited
+   ```
+5. Run the service
+    ```sh
+   sudo systemctl status Unlimited
+   ```
+6. Enable the service to run at boot time
+    ```sh
+   sudo systemctl enable Unlimited
+   ```
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -120,6 +143,7 @@ See the [open issues](https://github.com/target-software/Unlimited-DarkriftServe
     |-- README.MD                               # Readme file
     |
     |-- Run.ps1                                 # Run server script
+    |-- Unlimited.service                       # System service file
     |-- Server.config                           # Server configurations
     |
     |-- ************************************************************************
