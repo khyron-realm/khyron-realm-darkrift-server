@@ -1,16 +1,16 @@
 {
   "runtimeTarget": {
-    "name": ".NETCoreApp,Version=v2.0",
+    "name": ".NETCoreApp,Version=v5.0",
     "signature": ""
   },
   "compilationOptions": {},
   "targets": {
-    ".NETCoreApp,Version=v2.0": {
-      "DarkRift.Server.Console/2.9.1": {
+    ".NETCoreApp,Version=v5.0": {
+      "DarkRift.Server.Console/2.10.1": {
         "dependencies": {
-          "DarkRift": "2.9.1",
-          "DarkRift.Client": "2.9.1",
-          "DarkRift.Server": "2.9.1",
+          "DarkRift": "2.10.1",
+          "DarkRift.Client": "2.10.1",
+          "DarkRift.Server": "2.10.1",
           "MSBuildTasks": "1.5.0.235"
         },
         "runtime": {
@@ -18,23 +18,23 @@
         }
       },
       "MSBuildTasks/1.5.0.235": {},
-      "DarkRift/2.9.1": {
+      "DarkRift/2.10.1": {
         "runtime": {
           "DarkRift.dll": {}
         }
       },
-      "DarkRift.Client/2.9.1": {
+      "DarkRift.Client/2.10.1": {
         "dependencies": {
-          "DarkRift": "2.9.1"
+          "DarkRift": "2.10.1"
         },
         "runtime": {
           "DarkRift.Client.dll": {}
         }
       },
-      "DarkRift.Server/2.9.1": {
+      "DarkRift.Server/2.10.1": {
         "dependencies": {
-          "DarkRift": "2.9.1",
-          "DarkRift.Client": "2.9.1"
+          "DarkRift": "2.10.1",
+          "DarkRift.Client": "2.10.1"
         },
         "runtime": {
           "DarkRift.Server.dll": {}
@@ -43,7 +43,7 @@
     }
   },
   "libraries": {
-    "DarkRift.Server.Console/2.9.1": {
+    "DarkRift.Server.Console/2.10.1": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -55,17 +55,17 @@
       "path": "msbuildtasks/1.5.0.235",
       "hashPath": "msbuildtasks.1.5.0.235.nupkg.sha512"
     },
-    "DarkRift/2.9.1": {
+    "DarkRift/2.10.1": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "DarkRift.Client/2.9.1": {
+    "DarkRift.Client/2.10.1": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "DarkRift.Server/2.9.1": {
+    "DarkRift.Server/2.10.1": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
