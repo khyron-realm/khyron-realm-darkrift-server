@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugins nextID="21">
+  <plugin id="0" name="MongoDbPlugin" version="1.0.0" />
+  <plugin id="1" name="MinePlugin" version="1.0.0" />
+  <plugin id="2" name="LoginPlugin" version="1.0.0" />
+  <plugin id="3" name="HeadquartersPlugin" version="1.0.0" />
+  <plugin id="4" name="GamePlugin" version="1.0.0" />
+  <plugin id="5" name="FriendsPlugin" version="1.0.0" />
+  <plugin id="6" name="DatabaseProxy" version="1.0.0" />
+  <plugin id="7" name="ChatPlugin" version="1.0.0" />
+  <plugin id="8" name="AuctionsPlugin" version="1.0.0" />
+  <plugin id="9" name="HelpCommand" version="1.0.0" />
+  <plugin id="10" name="PluginController" version="1.0.0" />
+  <plugin id="11" name="Sniffer" version="1.0.0" />
+  <plugin id="12" name="DemoCommand" version="1.0.0" />
+  <plugin id="13" name="MessageCommand" version="1.0.0" />
+  <plugin id="14" name="MockCommand" version="1.0.0" />
+  <plugin id="15" name="DebugCommand" version="1.0.0" />
+  <plugin id="16" name="ClientCommand" version="1.0.0" />
+  <plugin id="17" name="ClearCommand" version="1.0.0" />
+  <plugin id="18" name="ObjectCacheMonitor" version="1.0.0" />
+  <plugin id="19" name="HttpHealthCheck" version="1.0.0" />
+  <plugin id="20" name="BadWordFilter" version="1.0.0" />
+</plugins>
