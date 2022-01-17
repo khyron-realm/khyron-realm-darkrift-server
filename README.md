@@ -146,7 +146,7 @@ See the [open issues](https://github.com/khyron-realm/khyron-realm-darkrift-serv
     |-- README.MD                               # Readme file
     |
     |-- Run.ps1                                 # Run server script
-    |-- Unlimited.service                       # System service file
+    |-- khyron-realm.service                    # System service file
     |-- Server.config                           # Server configurations
     |
     |-- ************************************************************************
