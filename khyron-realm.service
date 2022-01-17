@@ -4,7 +4,7 @@ After=network.target
 
 [Service]
 WorkingDirectory= PATH_TO_SERVER_DIRECTORY
-ExecStart=/usr/bin/dotnet PATH_TO_SERVER_DIRECTORY/Lib/DarkRift.Server.Console.dll
+ExecStart=/usr/bin/dotnet PATH_TO_SERVER_DIRECTORY/khyron-realm-darkrift-server/Lib/DarkRift.Server.Console.dll
 SyslogIdentifier=Unlimited
 Restart=always
 RestartSec=5      
