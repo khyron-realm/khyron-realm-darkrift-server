@@ -5,11 +5,9 @@
     <img src="Images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Darkrift Server</h3>
+  <h3 align="center">Khyron Realm - Darkrift Server</h3>
 
   <p align="center">
-    I - Mining game [Unlimited]
-    <br />
     <a href="https://github.com/target-software/Unlimited-DarkriftServer-MiningGame"><strong>Explore the docs »</strong></a>
     <br />
     <br />
@@ -48,7 +46,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Test repository contains the Darkrift 2 Server with the Unlimited Mining Game plugin that is deployed on the Google Cloud ComputeEngine virtual machine.
+The repository contains the Darkrift 2 Console Application with the Khyron Realm Game plugin that is deployed on the Google Cloud ComputeEngine virtual machine.
 
 ### Built Using
 
@@ -89,7 +87,7 @@ Test repository contains the Darkrift 2 Server with the Unlimited Mining Game pl
    ```
 3. Copy service file to system services folder
     ```sh
-   sudo cp Unlimited.service /lib/systemd/system/
+   sudo cp khyron-realm.service /lib/systemd/system/
    ```
 4. Reload the system process files
     ```sh
@@ -163,4 +161,4 @@ See the [open issues](https://github.com/target-software/Unlimited-DarkriftServe
 <!-- REFERENCES -->
 ## References
 
-1. Project Template adapted from [Othneil Drew](https://github.com/othneildrew) / [Best-README-Template](https://github.com/othneildrew/Best-README-Template).
+1. Readme Template adapted from [Othneil Drew](https://github.com/othneildrew) / [Best-README-Template](https://github.com/othneildrew/Best-README-Template).
