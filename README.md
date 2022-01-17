@@ -37,6 +37,7 @@
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#project-structure">Project Structure</a></li>
     <li><a href="#necessary-plugins">Necessary Plugins</a></li>
+    <li><a href="#license">License</a></li>
     <li><a href="#references">References</a></li>
   </ol>
 </details>
@@ -156,6 +157,22 @@ See the [open issues](https://github.com/khyron-realm/khyron-realm-darkrift-serv
 ## Necessary Plugins
 
 1. [Khyron Realm networking plugin](https://github.com/khyron-realm/khyron-realm-networking-server.git)
+
+
+<!-- LICENSE -->
+# License
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+
 
 
 <!-- REFERENCES -->
