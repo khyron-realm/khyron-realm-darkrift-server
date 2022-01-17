@@ -8,7 +8,7 @@
   <h3 align="center">Khyron Realm - Darkrift Server</h3>
 
   <p align="center">
-    <a href="https://github.com/khyron-realm/khyron-realm-darkrift-server"><strong>Explore the docs »</strong></a>
+    <a href="https://khyron-realm.com/docs/description"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/khyron-realm/khyron-realm-darkrift-server">View Demo</a>
