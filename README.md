@@ -1,23 +1,21 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/target-software/Unlimited-DarkriftServer-MiningGame">
+  <a href="https://github.com/khyron-realm/khyron-realm-darkrift-server">
     <img src="Images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Darkrift Server</h3>
+  <h3 align="center">Khyron Realm - Darkrift Server</h3>
 
   <p align="center">
-    I - Mining game [Unlimited]
-    <br />
-    <a href="https://github.com/target-software/Unlimited-DarkriftServer-MiningGame"><strong>Explore the docs »</strong></a>
+    <a href="https://khyron-realm.com/docs/description"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/target-software/Unlimited-DarkriftServer-MiningGame">View Demo</a>
+    <a href="https://github.com/khyron-realm/khyron-realm-darkrift-server">View Demo</a>
     ·
-    <a href="https://github.com/target-software/Unlimited-DarkriftServer-MiningGame/issues">Report Bug</a>
+    <a href="https://github.com/khyron-realm/khyron-realm-darkrift-server/issues">Report Bug</a>
     ·
-    <a href="https://github.com/target-software/Unlimited-DarkriftServer-MiningGame/issues">Request Feature</a>
+    <a href="https://github.com/khyron-realm/khyron-realm-darkrift-server/issues">Request Feature</a>
   </p>
 </p>
 
@@ -48,7 +46,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Test repository contains the Darkrift 2 Server with the Unlimited Mining Game plugin that is deployed on the Google Cloud ComputeEngine virtual machine.
+The repository contains the Darkrift 2 Console Application with the Khyron Realm Game plugin that is deployed on the Google Cloud ComputeEngine virtual machine.
 
 ### Built Using
 
@@ -62,11 +60,11 @@ Test repository contains the Darkrift 2 Server with the Unlimited Mining Game pl
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/target-software/Unlimited-DarkriftServer-MiningGame.git
+   git clone https://github.com/khyron-realm/khyron-realm-darkrift-server.git
    ```
 2. Go into folder
     ```sh
-   cd Unlimited-DarkriftServer-MiningGame
+   cd khyron-realm-darkrift-server
    ```
 3. Set permissions to run the script
     ```sh
@@ -81,15 +79,15 @@ Test repository contains the Darkrift 2 Server with the Unlimited Mining Game pl
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/target-software/Unlimited-DarkriftServer-MiningGame.git
+   git clone https://github.com/khyron-realm/khyron-realm-darkrift-server.git
    ```
 2. Go into folder
    ```sh
-   cd Unlimited-DarkriftServer-MiningGame
+   cd khyron-realm-darkrift-server
    ```
 3. Copy service file to system services folder
     ```sh
-   sudo cp Unlimited.service /lib/systemd/system/
+   sudo cp khyron-realm.service /lib/systemd/system/
    ```
 4. Reload the system process files
     ```sh
@@ -97,27 +95,27 @@ Test repository contains the Darkrift 2 Server with the Unlimited Mining Game pl
    ```
 5. Run the service
     ```sh
-   sudo systemctl start Unlimited
+   sudo systemctl start khyron-realm
    ```
 6. Run the service
     ```sh
-   sudo systemctl status Unlimited
+   sudo systemctl status khyron-realm
    ```
 7. Enable the service to run at boot time
     ```sh
-   sudo systemctl enable Unlimited
+   sudo systemctl enable khyron-realm
    ```
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-More detailes can be found on [Google Drive](https://docs.google.com/document/d/1CHdDfEm5BDM8vAbeubNgLF-Et8YwMgCbreD4CC6dSfo/edit)
+More detailes can be found on [Wiki](https://khyron-realm.com/docs/description)
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/target-software/Unlimited-DarkriftServer-MiningGame/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/khyron-realm/khyron-realm-darkrift-server/issues) for a list of proposed features (and known issues).
 
 
 <!-- CONTRIBUTING -->
@@ -157,10 +155,10 @@ See the [open issues](https://github.com/target-software/Unlimited-DarkriftServe
 <!-- PLUGINS -->
 ## Necessary Plugins
 
-1. [Unlimited networking plugin](https://github.com/target-software/Unlimited-NetworkingServer-MiningGame.git)
+1. [Khyron Realm networking plugin](https://github.com/khyron-realm/khyron-realm-networking-server.git)
 
 
 <!-- REFERENCES -->
 ## References
 
-1. Project Template adapted from [Othneil Drew](https://github.com/othneildrew) / [Best-README-Template](https://github.com/othneildrew/Best-README-Template).
+1. Readme Template adapted from [Othneil Drew](https://github.com/othneildrew) / [Best-README-Template](https://github.com/othneildrew/Best-README-Template).
